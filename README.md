@@ -26,6 +26,6 @@ _amount: Number of tokens to burn.
 Conditions:
 Only burns tokens if the holder’s balance is greater than or equal to _amount.
 
-Usage
+Usage:
 Deploy this contract on the Ethereum blockchain.
 Interact with the contract using the mint and burn functions to manage token supply and balances.
